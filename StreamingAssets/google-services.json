@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1068844190508",
+    "project_id": "puzzleone-c73d1",
+    "storage_bucket": "puzzleone-c73d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068844190508:android:2fcc9a4a12d698e9da3a89",
+        "android_client_info": {
+          "package_name": "com.gan.puzzleone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068844190508-vuitjggvdhi91lp10cudqqoso076lb0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnilBCxDGViNe50oMw5-fI_ydpUVp4PUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068844190508-vuitjggvdhi91lp10cudqqoso076lb0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1068844190508-fsihgv39cd0q3vo1pjv09ui4hqt8ssbj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gan.puzzleone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
